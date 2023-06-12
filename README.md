@@ -1,3 +1,6 @@
+# Fork from https://github.com/hjd1964/SmartHandController for M5 StickC porting. (Under develope)
+
+----------------------------------
 OnStep Smart Hand Controller (SHC)
 ==================================
 
